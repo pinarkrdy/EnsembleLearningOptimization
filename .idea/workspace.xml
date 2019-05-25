@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c298cc6-88bd-47d9-a30f-ddf123d10a1b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/hmetis-1.5-osx-i686/hmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/hmetis-1.5-osx-i686/khmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/hmetis-1.5-osx-i686/shmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/windows/hmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/windows/khmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Hypergraph_Partitioning/windows/shmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/CHART/Synthetic Control Chart Time Series_files/data.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Movement_libras/movement_libras.names" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/hmetis-1.5-osx-i686/hmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/hmetis-1.5-osx-i686/khmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/hmetis-1.5-osx-i686/shmetis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/windows/hmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/windows/khmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Hypergraph_Partitioning/windows/shmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/gpmetis.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ref20.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ref9.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDB.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDBColon_100.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDBMadelonyyy.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDB_50.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDB_Madelon.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDB_Small_Lung_100.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDB_Yale_100.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionDBempty.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionD_CNAE-9.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/FeatureSelectionD_warpAR10P.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/FeatureSelectionDB.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sonuçlar5 db.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/~$nuçlar5 db.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/11a.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Conf/logger.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/COIL20_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/ISOLET_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia1_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Leukemia2_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/LungCancer_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/MNIST4000_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OPTDIGITS_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OptDigits_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OptDigits_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OptDigits_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/OptDigits_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Prostate_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/SRBCT_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_2n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_half_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_onehalf_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_quarter_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_constraints_quarter_n_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_diff_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_informative_constraints.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_1_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_2_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_3.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_3_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_4.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_4_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/Segmentation_noise_n_5_informative.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/segmentation_constraints_2n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/segmentation_constraints_half_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/segmentation_constraints_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Constraints/segmentation_constraints_onehalf_n.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/MST/MSTClustering.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/MST/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/MST/test_mst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/Iris/Iris_2-10_0.7_1.0_10_FSRSNC_pure.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/Iris/Iris_3-30_0.7_1.0_10_FSRSNC_pure.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/Iris/Iris_3-30_0.7_1.0_5_FSRSNC_pure.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/digit_20-200_1_0.7_20.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/kmeans_e2cp_constrast.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/Results/movement_20-200_1_0.7_20.res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/CHART/Synthetic Control Chart Time Series.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/CHART/synthetic_control.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/ISOLET/isolet5.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Iris/iris.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Iris/iris.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Lung/lung-cancer.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Lung/lung-cancer.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Movement_libras/movement_libras.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Pima/pima-indians-diabetes.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Pima/pima-indians-diabetes.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/lp1.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/lp2.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/lp3.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/lp4.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/lp5.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/RobotExecution/robot.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTFheart/SPECTF.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTFheart/SPECTF.test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTFheart/SPECTF.train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTFheart/SPECTFincorrect.test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTheat/SPECT.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTheat/SPECT.test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/SPECTheat/SPECT.train.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Soybean/soybean-small.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Soybean/soybean-small.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Synthetic_control/synthetic_control.data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/Synthetic_control/synthetic_control.data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/WDBC/wdbc.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/WDBC/wdbc.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/glass/glass.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/glass/glass.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/glass/glass.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/ionosphere/ionosphere.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/ionosphere/ionosphere.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/segmentation/segmentation.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/segmentation/segmentation.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/wine/wine.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/UCI Data/wine/wine.names.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/constrained_methods/E2CP_on_matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/constrained_methods/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/constrained_methods/constrained_clustering.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/constrained_methods/efficient_cop_kmeans.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/constrained_methods/generate_constraints_link.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/Cluster_Ensembles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/ensemble_wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/propagation_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/selection_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/spectral_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/ensemble/weighted_ensemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/evaluation/Metrics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/evaluation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/evaluation/comparision_methods.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/evaluation/eval_library.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/evaluation/internal_metrics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/lib_gen_driver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/logger_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/member_generation/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/member_generation/library_generation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/member_generation/subspace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/sotsuron.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/sotsuron_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/testfile_lzj.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/cluster_visualization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/exp_datasets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/generate_constraints_link.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/informative_constraints_selection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/io_func.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/load_dataset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/utils/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/wgraph_CSPA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myClustering-master/wgraph_MCLA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/ALLAML.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/BASEHOCK.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/CLL-SUB-111.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/CNAE-9.data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/CNAE-9.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/COIL20.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/Carcinom.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/GLI-85.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/GLIOMA.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/Isolet.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/ORL.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/PCMAC.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/Prostate-GE.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/RELATHE.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/SMK-CAN-187.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/TOX-171.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/USPS.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/Yale.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/arcene.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/colon.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/deneme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/example1.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/gisette.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/leukemia.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/lung.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/lung_small.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/lymphoma.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/madelon.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/nci9.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/orlraws10P.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/pixraw10P.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/warpAR10P.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/warpPIE10P.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/data/zoo.mat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/Main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/MainPinar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/MainPinar_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/SqlLiteDatabase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/_MainPinar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/aaaaa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/deneeme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/mainpinarWithoutpruningnaivebayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_CFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_CIFE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_CMIM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_DISR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_FCBF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_ICAP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_JMI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_MCFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_MIFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_MIM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_MRMR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_NDFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_RFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_SPEC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_UDFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_alpha_investing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_chi_square.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_decision_tree_backward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_decision_tree_forward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_f_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_fisher_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_gini_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_group_fs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_lap_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_ll_l21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_low_variance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_ls_l21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_reliefF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_svm_backward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_svm_forward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_t_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_trace_ratio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/test_tree_fs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/example/toplam.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ApplyFeatureSelection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/dccp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/dccp/dccpFunc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterEnsembleTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/Cluster_select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/Ensemble_subset.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/JointTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/PRED.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/Random_select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/SNMI.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/SpectralJordan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/Subset_joint.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/cl_full.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/clusterEnsemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/deneme.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/ensemble_cluster.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/evalMutual.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/mapdense.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/nmi.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/objCluster.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/qual_full.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/ensembleLib/wgraph_CSPA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/CIFE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/CMIM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/DISR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/FCBF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/ICAP.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/JMI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/LCSI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/MIFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/MIM.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/MRMR.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/information_theoretical_based/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/SPEC.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/fisher_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/lap_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/reliefF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/similarity_based/trace_ratio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/MCFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/NDFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/RFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/UDFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/ll_l21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sparse_learning_based/ls_l21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sql/SqlLiteDatabase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/sql/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/CFS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/chi_square.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/dene.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/f_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/gini_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/low_variance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/statistical_based/t_score.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/streaming/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/streaming/alpha_investing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/structure/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/structure/graph_fs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/structure/group_fs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/structure/tree_fs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/wrapper/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_backward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_forward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/wrapper/svm_backward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/function/wrapper/svm_forward.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/construct_W.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/data_discretization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/denem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/entropy_estimators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/mutual_information.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/sparse_learning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/skfeature/utility/unsupervised_evaluation.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scikit-feature-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MainPinar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/example/MainPinar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aaaaa.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skfeature/example/aaaaa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="e#1#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decision_tree_backward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_backward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CIFE.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/information_theoretical_based/CIFE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCSI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/information_theoretical_based/LCSI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="95" column="35" lean-forward="false" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/sparse_learning_based/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ll_l21.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/sparse_learning_based/ll_l21.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2312">
+              <caret line="139" column="48" lean-forward="false" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svm_backward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/function/wrapper/svm_backward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainPinarWithNaivebayes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>relie</find>
+      <find>clusterEnsemble</find>
+      <find>index</find>
+      <find>astype</find>
+      <find>length</find>
+      <find>SelectedFeature</find>
+      <find>rel</find>
+      <find>CFS</find>
+      <find>X_test</find>
+      <find>outFile</find>
+      <find>file2</find>
+      <find>accuracy</find>
+      <find>sq.write</find>
+      <find>reli</find>
+      <find>dccp</find>
+      <find>num_fea=</find>
+      <find>trace</find>
+      <find>SVC</find>
+      <find>num_fea</find>
+      <find>FinalAccuracyValMean</find>
+      <find>split</find>
+      <find>_teta</find>
+      <find>print</find>
+      <find>only</find>
+      <find>hgpa</find>
+      <find>x0</find>
+      <find>biGram</find>
+      <find>hyper</find>
+      <find>svm</find>
+      <find>back</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/Cluster_Ensembles/Cluster_Ensembles.py" />
+        <option value="$USER_HOME$/PycharmProjects/PROJECT3501/main.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/sql/SqlLiteDatabase.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_backward.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_forward.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/wrapper/svm_backward.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/wrapper/svm_forward.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ApplyFeatureSelection.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensemble/listOfClusterPr.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensemble/deneme.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensemble/EvalMutual" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensemble/clusterEnsemble.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/EvalMutual" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/evamMutual.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/deneeme.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/test_CIFE.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/Main.py" />
+        <option value="$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/biGram.py" />
+        <option value="$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/WordCount_reviews.py" />
+        <option value="$PROJECT_DIR$/skfeature/data/deneme.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/sparse_learning_based/ll_l21.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/toplam.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/mainpinarWithoutpruningnaivebayes.py" />
+        <option value="$PROJECT_DIR$/skfeature/utility/denem" />
+        <option value="$PROJECT_DIR$/skfeature/function/statistical_based/dene.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/ensemble_cluster.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/deneme.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/evalMutual.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/ceevalmutual.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/mapdense.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/mapasc.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/checkcl.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/onetomax.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/objCluster.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/Random_select.py" />
+        <option value="$USER_HOME$/Documents/dccp-master/examples/dccpPinar.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/JointTest.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/dccp/dccpFunc.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/Cluster_select.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/SpectralJordan.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/main.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/clusterEnsemble.py" />
+        <option value="$PROJECT_DIR$/myClustering-master/ensemble/Cluster_Ensembles.py" />
+        <option value="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterEnsembleTest.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/MainPinar.py" />
+        <option value="$PROJECT_DIR$/skfeature/example/aaaaa.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scikit-feature-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scikit-feature-master" type="462c0819:PsiDirectoryNode" />
+              <item name="skfeature" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scikit-feature-master" type="462c0819:PsiDirectoryNode" />
+              <item name="skfeature" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scikit-feature-master" type="462c0819:PsiDirectoryNode" />
+              <item name="skfeature" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scikit-feature-master" type="462c0819:PsiDirectoryNode" />
+              <item name="skfeature" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\scikit-feature-master\skfeature\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\scikit-feature-master\skfeature\function\ensembleLib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.aaaaa">
+    <configuration name="ClusterSelectTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skfeature/function/ensembleLib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="MainPinar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skfeature/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skfeature/example/MainPinar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SpectralJordan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skfeature/function/ensembleLib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skfeature/function/ensembleLib/SpectralJordan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="Python.Ipnb" factoryName="Jupyter Notebook">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+    </configuration>
+    <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="PROJECT_NAME" value="" />
+      <option name="TABLE_NAME" value="" />
+      <option name="TABLE_COLUMNS" value="" />
+      <option name="TABLE_PARTITION" value="" />
+      <option name="MAIN_CLASS" value="" />
+      <option name="RECORD_LIMIT" value="100" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scikit-feature-master" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="aaaaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skfeature/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skfeature/example/aaaaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/skfeature/function/ensembleLib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/skfeature/function/ensembleLib/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SpectralJordan" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ClusterSelectTest" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MainPinar" />
+      <item index="5" class="java.lang.String" itemvalue="Python.aaaaa" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.aaaaa" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MainPinar" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ClusterSelectTest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SpectralJordan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c298cc6-88bd-47d9-a30f-ddf123d10a1b" name="Default" comment="" />
+      <created>1532255677489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532255677489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7152209" sideWeight="0.45385778" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.47547975" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41734862" sideWeight="0.43494704" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.4795764" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1732224" sideWeight="0.4902439" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18390192" sideWeight="0.5097561" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3420622" sideWeight="0.5461422" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7065053" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35969663" sideWeight="0.4969743" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_alpha_investing.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_alpha_investing.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_CIFE.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_chi_square.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_f_score.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>352</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>363</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>385</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>406</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>417</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>428</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_FCBF.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/SqlLiteDatabase.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/PROJECT3501/main.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/SqlLiteDatabase.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_CFS.py</url>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>376</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>480</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/Main.py</url>
+          <line>461</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/deneeme.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/deneeme.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/deneeme.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/test_RFS.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/WordCount_reviews.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/WordCount_reviews.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/WordCount_reviews.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../spamdetection/15-collective_opinion_spam_detection/WordCount_reviews.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/data/deneme.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/data/deneme.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/data/deneme.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>136</line>
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>289</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>316</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>424</line>
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>191</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>236</line>
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>381</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>647</line>
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/toplam.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/toplam.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/deneme.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/dccp-master/examples/dccpPinar.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/dccp-master/examples/dccpPinar.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="532" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/Random_select.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="612" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/Cluster_select.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="618" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="621" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="622" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="623" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="624" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="625" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="627" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="628" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterEnsembleTest.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="629" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="631" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="632" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="633" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="634" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="635" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/function/information_theoretical_based/CIFE.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="637" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/MainPinar.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="638" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/aaaaa.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="639" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/skfeature/example/aaaaa.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="641" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="642" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="matrix[0:29] [14]" />
+        <watch expression="np.argsort(-SNMI)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/mapasc.py" />
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/onetomax.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/scipy/optimize/_minimize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="429" column="0" lean-forward="false" selection-start-line="429" selection-start-column="0" selection-end-line="429" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/Cluster_Ensembles/Cluster_Ensembles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="604" column="46" lean-forward="false" selection-start-line="604" selection-start-column="46" selection-end-line="604" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/scipy/optimize/tnc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="354" column="0" lean-forward="false" selection-start-line="354" selection-start-column="0" selection-end-line="354" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/deneme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/objCluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/dccp.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/ensemble_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/T.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/evalMutual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/data/example1.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/PRED.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="55" column="1576" lean-forward="false" selection-start-line="55" selection-start-column="1575" selection-end-line="55" selection-end-column="1576" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="942" column="0" lean-forward="false" selection-start-line="942" selection-start-column="0" selection-end-line="942" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="1598" column="0" lean-forward="false" selection-start-line="1598" selection-start-column="0" selection-end-line="1598" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/JointTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/SpectralJordan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/dccp-master/examples/dccpPinar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <element signature="e#22#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="62" column="36" lean-forward="false" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/Cluster_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#69#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/Random_select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ApplyFeatureSelection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/clusterEnsemble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/dccp/dccpFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/ensemble/ensemble_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/ensemble/Cluster_Ensembles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterEnsembleTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/ensemble/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/ensemble/spectral_ensemble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/ensemble/propagation_ensemble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/sotsuron_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="128" column="13" lean-forward="true" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/11a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myClustering-master/testfile_lzj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/example/mainpinarWithoutpruningnaivebayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/information_theoretical_based/CIFE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/information_theoretical_based/LCSI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="35" lean-forward="false" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/sparse_learning_based/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/sparse_learning_based/ll_l21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="139" column="48" lean-forward="false" selection-start-line="139" selection-start-column="48" selection-end-line="139" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/data/madelon.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/wrapper/decision_tree_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/example/MainPinar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/data/lung_small.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/function/wrapper/svm_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skfeature/example/aaaaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#1#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
