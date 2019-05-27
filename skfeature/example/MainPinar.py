@@ -6,7 +6,7 @@ from skfeature.function.similarity_based import fisher_score,lap_score,reliefF,S
 from skfeature.function.sparse_learning_based import ll_l21,ls_l21,MCFS,NDFS,RFS,UDFS
 from skfeature.function.streaming import alpha_investing
 from skfeature.function.structure import graph_fs,group_fs,tree_fs
-from skfeature.function.dccp import dccpFunc
+from EnsembleMethodsByOptimization.dccp import dccpFunc
 from skfeature.function.wrapper import decision_tree_backward,decision_tree_forward,svm_backward,svm_forward
 from skfeature.utility import construct_W
 from skfeature.utility.sparse_learning import *
@@ -21,6 +21,16 @@ import numpy as np
 from sklearn import metrics
 import random
 from sklearn.model_selection import LeaveOneOut
+
+
+# In this function, we proposed a novel ensemble based feature
+# selection algorithm using Convex Concave Programming which is based on ensemble
+# pruning. The optimization model in the pruning step selects the best
+# subset of the ensemble considering accuracy and diversity of models simultaneously.
+# The proposed algorithm is tested on multiple data sets and learning
+# performances are compared with various feature selection algorithms. The empirical
+# results shows that the proposed algorithm in this study gives higher
+# classication accuracy.In this method we applyed svm for testing our result
 
 multiClass = True
 x = np.random.randn(20)
@@ -544,7 +554,7 @@ for s in range(5):
 
     #rho_list = [10, 100,10**-1,10**-2]#0.8 0.7 0.866666666667 0.6 0.466666666667
     #
-    rho_list = [10 **-1,10 **-2,10 **1,10**2]  # 0.8 0.7 0.866666666667 0.6 0.466666666667
+    rho_list = [10 **-1,10 **-2,10 **1,10**2]  # 0.8 0.7 0.866666666667 0.6 0.466666666667 hyper paramtre 28 fearure seşect,in algoritmasını çalıştıryor isetersenz comment koayareak istediğiniz feature seldctişoın algot5i,masını çağırabilisiniz
     #rho_list = [10 **1,10 **2,10 **3,10 **-1,10 **-2,10 **-3] #warp
     dccpResults= []
     sumofColumns=[]

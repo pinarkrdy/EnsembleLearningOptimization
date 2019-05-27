@@ -3,11 +3,12 @@ import scipy.io
 from skfeature.function.information_theoretical_based import CIFE,CMIM,DISR,FCBF,ICAP,JMI,LCSI,MIFS,MIM,MRMR
 from skfeature.function.statistical_based import CFS,chi_square,gini_index,f_score,low_variance,t_score
 from skfeature.function.similarity_based import fisher_score,lap_score,reliefF,SPEC,trace_ratio
-from skfeature.function.ensembleLib import clusterEnsemble,listOfClusterPr,evalMutual,deneme
+from skfeature.function.ensembleLib import listOfClusterPr,evalMutual,deneme
+from EnsembleMethodsByOptimization.ClusteringSelectionByOptimizationPart.ensembleLib import clusterEnsemble
 from skfeature.function.sparse_learning_based import ll_l21,ls_l21,MCFS,NDFS,RFS,UDFS
 from skfeature.function.streaming import alpha_investing
 from skfeature.function.structure import graph_fs,group_fs,tree_fs
-from skfeature.function.dccp import dccpFunc
+from EnsembleMethodsByOptimization.dccp import dccpFunc
 from skfeature.function.wrapper import decision_tree_backward,decision_tree_forward,svm_backward,svm_forward
 from skfeature.utility import construct_W
 from skfeature.utility.sparse_learning import *
@@ -457,7 +458,7 @@ for s in range(5):
 
     #DCCP ile hesap yap
     for index, rho in enumerate(rho_list):
-        A=dccpFunc.dccpFunc(T,rho)
+        A= dccpFunc.dccpFunc(T, rho)
         if A!=[]:
             dccpResults.append(A)
 

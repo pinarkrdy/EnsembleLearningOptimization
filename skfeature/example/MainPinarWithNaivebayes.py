@@ -1,27 +1,13 @@
-import operator
-import scipy.io
-from skfeature.function.information_theoretical_based import CIFE,CMIM,DISR,FCBF,ICAP,JMI,LCSI,MIFS,MIM,MRMR
-from skfeature.function.statistical_based import CFS,chi_square,gini_index,f_score,low_variance,t_score
-from skfeature.function.similarity_based import fisher_score,lap_score,reliefF,SPEC,trace_ratio
-from skfeature.function.sparse_learning_based import ll_l21,ls_l21,MCFS,NDFS,RFS,UDFS
-from skfeature.function.streaming import alpha_investing
-from skfeature.function.structure import graph_fs,group_fs,tree_fs
-from skfeature.function.dccp import dccpFunc
-from skfeature.function.wrapper import decision_tree_backward,decision_tree_forward,svm_backward,svm_forward
-from skfeature.utility import construct_W
-from skfeature.utility.sparse_learning import *
-from skfeature.function.sql import SqlLiteDatabase
-import json
-from sklearn import svm
-from sklearn.metrics import accuracy_score
-from sklearn import metrics
-from sklearn.cross_validation import train_test_split
-import sqlite3 as sql
 import numpy as np
-from sklearn import metrics
-import random
+import scipy.io
+from sklearn.cross_validation import train_test_split
+from sklearn.metrics import accuracy_score
 from sklearn.model_selection import LeaveOneOut
 from sklearn.naive_bayes import GaussianNB
+
+from EnsembleMethodsByOptimization.dccp import dccpFunc
+from skfeature.function.sql import SqlLiteDatabase
+
 multiClass = True
 x = np.random.randn(20)
 # sq =SqlLiteDatabase.SqlLiteDatabase('C:\Users\lenovo\Desktop\scikit-feature-master\skfeature\FeatureSelectionDBColon_100.db')
@@ -544,7 +530,7 @@ for s in range(5):
 
     #DCCP ile hesap yap
     for index, rho in enumerate(rho_list):
-        A=dccpFunc.dccpFunc(T,rho)
+        A= dccpFunc.dccpFunc(T, rho)
         if A!=[]:
             dccpResults.append(A)
     selectedFeatureSelectionAlg=[]
