@@ -10,7 +10,7 @@ AUTHOR = "Süreyya Akyüz , Pinar Karadayi Atas,"
 
 AUTHOR_EMAIL = "sureyya.akyuz@eng.bahcesehir.edu.tr, pinar.karadayiatas@bahcesehir.edu.tr, "
 
-URL = "https://github.com/pinarkrdy"
+URL = "https://github.com/pinarkrdy/EnsembleLearningOptimization"
 
 VERSION = "1.0.0"
 
