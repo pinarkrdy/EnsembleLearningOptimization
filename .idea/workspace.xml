@@ -2,46 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c298cc6-88bd-47d9-a30f-ddf123d10a1b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/dccp/dccpFunc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterEnsembleTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/ClusterSelectTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/Cluster_select.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/Ensemble_subset.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/JointTest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/PRED.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/Random_select.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/SNMI.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/SpectralJordan.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/Subset_joint.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/T.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/cl_full.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/clusterEnsemble.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/deneme.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/evalMutual.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/joint_criterion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/listOfClusterPr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/mapdense.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/nmi.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/objCluster.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/qual_full.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/wgraph_CSPA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sonuçlar5 db.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~$nuçlar5 db.docx" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/skfeature/function/dccp/__init__.py" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/__init__.py" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/skfeature/function/ensembleLib/ensemble_cluster.py" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff.iml" afterPath="$PROJECT_DIR$/.idea/EnsembleClusteringSelectionbyOptimizationofAccuracy-DiversityTradeoff.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/ClusterEnsembleTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/ClusterSelectTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/Cluster_select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/Ensemble_subset.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/JointTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/PRED.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/Random_select.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/SNMI.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/SpectralJordan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/Subset_joint.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/T.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/cl_full.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/clusterEnsemble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/ensemble_cluster.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/evalMutual.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/joint_criterion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/listOfClusterPr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/mapdense.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/nmi.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/objCluster.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/qual_full.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/ClusteringSelectionByOptimizationPart/ensembleLib/wgraph_CSPA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/MainPinar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/MainPinarWithNaivebayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/MainPinarWithoutpruning.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/SqlLiteDatabase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/EnsembleFeatureSelectionByOptimizationPart2/mainpinarWithoutpruningnaivebayes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/dccp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EnsembleMethodsByOptimization/dccp/dccpFunc.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/Main.py" afterPath="$PROJECT_DIR$/skfeature/example/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/MainPinar.py" afterPath="$PROJECT_DIR$/skfeature/example/MainPinar.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py" afterPath="$PROJECT_DIR$/skfeature/example/MainPinarWithNaivebayes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py" afterPath="$PROJECT_DIR$/skfeature/example/MainPinarWithoutpruning.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/MainPinar_.py" afterPath="$PROJECT_DIR$/skfeature/example/MainPinar_.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/_MainPinar.py" afterPath="$PROJECT_DIR$/skfeature/example/_MainPinar.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skfeature/example/mainpinarWithoutpruningnaivebayes.py" afterPath="$PROJECT_DIR$/skfeature/example/mainpinarWithoutpruningnaivebayes.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -566,6 +558,14 @@
       <option name="presentableId" value="Default" />
       <updated>1532255677489</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1558988072173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558988072173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -579,16 +579,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.19515885" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5060514" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.49394855" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.47547975" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4171181" sideWeight="0.86247337" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32405892" sideWeight="0.80484116" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.80484116" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21482602" sideWeight="0.4902439" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -606,8 +605,38 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
