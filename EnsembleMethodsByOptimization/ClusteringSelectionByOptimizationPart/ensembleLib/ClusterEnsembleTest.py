@@ -7,7 +7,7 @@ from EnsembleMethodsByOptimization.ClusteringSelectionByOptimizationPart.ensembl
 from sklearn.metrics import normalized_mutual_info_score
 import scipy.optimize as op
 
-# This file apply Disciplined Convex-Concave Programming(DCCP) on accurcay and diverstiy matrix(T) with specific Rho Parameters
+# This file apply Disciplined Convex-Concave Programming (DCCP) on accurcay and diverstiy matrix(T) with specific Rho Parameters
 
 # This test basically does the following
 #   -Check the isDCCP value if it equals to 1 apply dccp algoritihm on T matrix ,otherwise the program will apply scipy.optimize
