@@ -1,28 +1,32 @@
 Ensemble Pruning by Disciplined Convex Concave Programming
 ===============================
-Code and methods for the  paper, currently under review.
+To cite:
+
+[1] Akyuz, S.  &  Otar, B. C. (2017). Ensemble clustering selection by optimization of accuracy-diversity trade off. Paper presented at the 2017 25th Signal Processing and Communications Applications Conference, SIU 2017, doi:10.1109/SIU.2017.7960636 
+
+[2] Ali, M. A., Ucuncu, D., Karadayi Atas, P., & Ozogur-Akyuz, S. (2019). Classification of motor imagery task by using novel ensemble pruning approach. IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2019.2900859
 
 This project mainly has two part:
 
-- Ensemble Clustering Selection By Optimization of Accuricy Diverstiy Trade Off (.\scikit-feature-master\EnsembleMethodsByOptimization)
-- Ensemble Feature Selection By   Optimization of Accuricy Diverstiy Trade Off (.\scikit-feature-master\skfeature\function,.scikit-feature-master\EnsembleMethodsByOptimization)
-- Datasets used in the experiments (.\skfeature\data)
+- Ensemble Clustering Selection By Optimization of Accuracy Diverstiy Trade Off (.\scikit-feature-master\EnsembleMethodsByOptimization)
+- Ensemble Feature Selection By   Optimization of Accuracy Diverstiy Trade Off (.\scikit-feature-master\skfeature\function,.scikit-feature-master\EnsembleMethodsByOptimization)
+- Datasets used in the experiments can be found from the directory (.\skfeature\data)
 
 ##Ensemble Clustering Selection By Optimization of Accuracy Diversity Trade-Off
 1.  Datasets that exist under the data folder can be used as source dataset in that project
-2.    The number of clustering solutions in the subset of the ensemble will be obtained automatically by the optimization model called DCCP.
-3.    The proposed model will optimize accuracy and diversity simultaneously.
-4.    The result of the proposed model was compared by Joint Criteria, Cluster Select, Full Ensemble, and random select methods.
-5.    EnsembleSize(default is 50), number of fold in cross-validation, normalization status, RHO content in DCCP values are optional according to user demand.
+2.    The number of clustering solutions in the subset of the ensemble are obtained automatically by the optimization model called DCCP.
+3.    The proposed model optimizes accuracy and diversity simultaneously.
+4.    The result of the proposed model can be compared by the literature methods Joint Criteria, Cluster Select (Fern et al 2008), and Full Ensemble Library, and random selection methods.
+5.    EnsembleSize (default is 50), number of folds in cross-validation, normalization status, RHO content in DCCP values are optional according to user demand.
 
 ##Ensemble Feature Selection By   Optimization of Accuracy Diversity Trade-Off
-The proposed technique will be adapted/applied to feature selection problem and the proposed approach will be implemented as follows:
+The proposed technique is adapted/applied to feature selection problem and the proposed approach can be  implemented as follows:
 1. Datasets that exist under the data folder can be used as source dataset in that project.
     mat = scipy.io.loadmat('...\scikit-feature-master\skfeature\data\Yale.mat')
     X = mat['X']  # data
     X = X.astype(float)
     y = mat['Y']  # label
-2. In that project 28 feature selection algorithm was applied, the number of feature selection algoritm can be changed accoridng to user demand.
+2. In this project, 28 feature selection algorithm was applied, the number of feature selection algoritm can be changed accoridng to user demand.
 3.The number of Faeture in the subset of the ensemble will be obtained automatically by the optimization model called DCCP.
 4. All results are saved under the SQLite,Example code is :    sq.write('FeatureSelectionResults'+str(s), 'features',line)
 5. Number of fold in cross validation, normalization status,Types of feature selection algorithm, RHO content in DCCP values are optinal according to user demand.
