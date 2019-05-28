@@ -2,9 +2,9 @@ Ensemble Pruning by Disciplined Convex Concave Programming
 ===============================
 To cite:
 
-[1] Akyuz, S.  &  Otar, B. C. (2017). Ensemble clustering selection by optimization of accuracy-diversity trade off. Paper presented at the 2017 25th Signal Processing and Communications Applications Conference, SIU 2017, doi:10.1109/SIU.2017.7960636 
+[1] Akyüz, S.  &  Otar, B. C. (2017). Ensemble clustering selection by optimization of accuracy-diversity trade off. Paper presented at the 2017 25th Signal Processing and Communications Applications Conference, SIU 2017, doi:10.1109/SIU.2017.7960636 
 
-[2] Ali, M. A., Ucuncu, D., Karadayi Atas, P., & Ozogur-Akyuz, S. (2019). Classification of motor imagery task by using novel ensemble pruning approach. IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2019.2900859
+[2] Ali, M. A., Ucuncu, D., Karadayi Atas, P., & Özöğür-Akyüz, S. (2019). Classification of motor imagery task by using novel ensemble pruning approach. IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2019.2900859
 
 [3] Karadayı Ataş, P. & Özöğür-Akyüz, S. Ensemble Learning Based Feature Selection by Using Convex Concave Programming, under review in European Journal of Operational Research, 2019. 
 
