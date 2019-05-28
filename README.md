@@ -61,6 +61,10 @@ References:
 
 [2] Diamond, S., & Boyd, S. (2016). CVXPY: A Python-embedded modeling language for convex optimization. Journal of Machine Learning Research, 17 , 1-5.
 
+[3] Xiaoli Z. Fern and Wei Lin. 2008. Cluster Ensemble Selection. Stat. Anal. Data Min. 1, 3 (November 2008), 128-141. DOI=http://dx.doi.org/10.1002/sam.v1:3
+
+
+
 
 ## Contact
 Sureyya Akyuz
