@@ -33,7 +33,7 @@ The proposed technique is adapted/applied to feature selection problem and the p
 3.The number of Faeture in the subset of the ensemble will be obtained automatically by the optimization model called DCCP.
 4. All results are saved under the SQLite,Example code is :    sq.write('FeatureSelectionResults'+str(s), 'features',line)
 5. Number of fold in cross validation, normalization status, Types of feature selection algorithm, rho parameter in DCCP are optional according to user demand.
-6. Examples code are exits at the end of each .py file as an command under the ClusteringSelectionOyptimzationPart
+6. Examples for each code exits at the end of each .py file as a command under the ClusteringSelectionOyptimzationPart
 
 Feature selection repository scikit-feature in Python (DMML Lab@ASU).
 scikit-feature is an open-source feature selection repository in Python developed by Data Mining and Machine Learning Lab at Arizona State University. It is built upon one widely used machine learning package scikit-learn and two scientific computing packages Numpy and Scipy. scikit-feature contains around 40 popular feature selection algorithms, including traditional feature selection algorithms and some structural and streaming feature selection algorithms.
