@@ -1,4 +1,4 @@
-EnsembleClusteringSelectionbyOptimization
+Ensemble Pruning by Disciplined Convex Concave Programming
 ===============================
 Code and methods for the  paper, currently under review.
 
