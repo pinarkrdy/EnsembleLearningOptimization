@@ -67,9 +67,9 @@ References:
 
 
 ## Contact
-Sureyya Akyuz
+Assoc. Prof. Dr. Sureyya Akyuz (Bahcesehir University, Istanbul Turkey)
 E-mail: sureyya.akyuz@eng.bau.edu.tr
 
-Pınar Karadayı Ataş
+Pınar Karadayı Ataş (Bahcesehir University, Istanbul Turkey)
 E-mail: pinar.karadayiatas@bahcesehir.edu.tr
 "# Ensemble-Clustering-Selection-by-Optimization-of-Accuracy-Diversity-Tradeoff"
