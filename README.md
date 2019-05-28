@@ -32,7 +32,7 @@ The proposed technique is adapted/applied to feature selection problem and the p
 2. In this project, 28 feature selection algorithm was applied, the number of feature selection algoritm can be changed accoridng to user demand.
 3.The number of Faeture in the subset of the ensemble will be obtained automatically by the optimization model called DCCP.
 4. All results are saved under the SQLite,Example code is :    sq.write('FeatureSelectionResults'+str(s), 'features',line)
-5. Number of fold in cross validation, normalization status,Types of feature selection algorithm, RHO content in DCCP values are optinal according to user demand.
+5. Number of fold in cross validation, normalization status, Types of feature selection algorithm, rho parameter in DCCP are optional according to user demand.
 6. Examples code are exits at the end of each .py file as an command under the ClusteringSelectionOyptimzationPart
 
 Feature selection repository scikit-feature in Python (DMML Lab@ASU).
