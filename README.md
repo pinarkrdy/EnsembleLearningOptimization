@@ -4,7 +4,7 @@ Code and methods for the  paper, currently under review.
 
 This project mainly has two part:
 
-- Ensemble Clustering Selection By Optimization of Accuricy Diverstiy Trade Off (.scikit-feature-master\EnsembleMethodsByOptimization)
+- Ensemble Clustering Selection By Optimization of Accuricy Diverstiy Trade Off (.\scikit-feature-master\EnsembleMethodsByOptimization)
 - Ensemble Feature Selection By   Optimization of Accuricy Diverstiy Trade Off (.\scikit-feature-master\skfeature\function,.scikit-feature-master\EnsembleMethodsByOptimization)
 - Datasets used in the experiments (.\skfeature\data)
 
