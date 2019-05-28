@@ -58,6 +58,7 @@ For Windows users, you can also install the repository by the following command:
 References:
 
 [1] Agrawal, A., Verschueren, R., Diamond, S., & Boyd, S. (2018). A rewriting system for convex optimization problems. Journal of Control and Decision, 5 , 42-60.
+
 [2] Diamond, S., & Boyd, S. (2016). CVXPY: A Python-embedded modeling language for convex optimization. Journal of Machine Learning Research, 17 , 1-5.
 
 
