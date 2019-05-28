@@ -6,6 +6,9 @@ To cite:
 
 [2] Ali, M. A., Ucuncu, D., Karadayi Atas, P., & Ozogur-Akyuz, S. (2019). Classification of motor imagery task by using novel ensemble pruning approach. IEEE Transactions on Fuzzy Systems, doi:10.1109/TFUZZ.2019.2900859
 
+[3] Karadayı Ataş, P. & Özöğür-Akyüz, S. Ensemble Learning Based Feature Selection by Using Convex Concave Programming, under review in European Journal of Operational Research, 2019. 
+
+
 This project mainly has two part:
 
 - Ensemble Clustering Selection By Optimization of Accuracy Diverstiy Trade Off (.\scikit-feature-master\EnsembleMethodsByOptimization)
