@@ -59,7 +59,7 @@ For Windows users, you can also install the repository by the following command:
 
 ## Contact
 Sureyya Akyuz
-E-mail: sureyya.akyuz@eng.bahcesehir.edu.tr
+E-mail: sureyya.akyuz@eng.bau.edu.tr
 
 Pınar Karadayı Ataş
 E-mail: pinar.karadayiatas@bahcesehir.edu.tr
